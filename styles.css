@@ -1,0 +1,44 @@
+ body {
+    width: 100%;
+    margin: 0;
+ }
+ header {
+            display: flex;
+
+        }
+        .yellow {
+            background-color: yellow;
+            height: 500px;
+            width: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 4vw;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+.ebwv {
+    background-image: url("bwv.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 500px;
+}
+
+
+.red {
+    background-color: red;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.whiteBub {
+    background-color: white;
+    height: 160px;
+    width: 60%;
+    border-style: solid;
+    border-radius: 15px;
+}
